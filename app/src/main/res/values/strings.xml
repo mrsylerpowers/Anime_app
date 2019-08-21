@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">anime app</string>
+    <string name="name">name</string>
+
+    <string-array name ="Charters">
+    <item>goku</item>
+    <item>naruto</item>
+    <item>luffy</item>
+</string-array>
+
+    <string-array name="price">
+        <item>$35.00</item>
+        <item>$30.00</item>
+        <item>25.00</item>
+    </string-array>
+</resources>
