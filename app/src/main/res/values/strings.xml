@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">anime app</string>
+    <string name="app_name">Anime app</string>
     <string name="name">name</string>
 
     <string-array name ="Charters">
